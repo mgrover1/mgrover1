@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on open source Python tools focused on working with climate and weather data
   - [NCAR ESDS](https://github.com/NCAR/esds) 
   - [ecgtools](https://github.com/NCAR/ecgtools)
