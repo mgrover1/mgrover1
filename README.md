@@ -6,7 +6,7 @@ Here are some ideas to get you started:
   - [NCAR ESDS](https://github.com/NCAR/esds) 
   - [ecgtools](https://github.com/NCAR/ecgtools)
   - [intake-esm](https://github.com/intake/intake-esm) 
-- 🌱 I’m currently learning best practices when working with [Xarray](https://xarray.pydata.org/en/stable/), Dask(https://dask.org/), and large volumes of climate data
+- 🌱 I’m currently learning best practices when working with [Xarray](https://xarray.pydata.org/en/stable/), [Dask](https://dask.org/), and large volumes of climate data
 - 👯 I’m looking to collaborate on [ecgtools](https://github.com/NCAR/ecgtools) and [NCAR ESDS](https://github.com/NCAR/esds)
 - 🤔 I’m looking for help with documenting more workflows on [NCAR ESDS](https://github.com/NCAR/esds)
 - 💬 Ask me about building data catalogs and working with Dask/Xarray
