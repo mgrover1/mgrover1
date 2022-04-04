@@ -1,5 +1,3 @@
-![Metrics](https://metrics.lecoq.io/mgrover1?template=classic&config.timezone=America%2FChicago)
-
 ### Hi there 👋
 
 - 🔭 I’m currently working on open source Python tools focused on working with climate and weather data
@@ -13,3 +11,4 @@
 - 📫 How to reach me: Tweet me at [@mgroverwx](https://twitter.com/mgroverwx)
 - ⚡ Fun fact: I own over 40 Hawaiian shirts 🌴
 
+![Metrics](https://metrics.lecoq.io/mgrover1?template=classic&config.timezone=America%2FChicago)
