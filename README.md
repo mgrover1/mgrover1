@@ -10,3 +10,6 @@
 - 💬 Ask me about building data catalogs and working with Dask/Xarray
 - 📫 How to reach me: Tweet me at [@mgroverwx](https://twitter.com/mgroverwx)
 - ⚡ Fun fact: I own over 40 Hawaiian shirts 🌴
+
+
+![Metrics](https://metrics.lecoq.io/mgrover1?template=classic&config.timezone=America%2FChicago)
