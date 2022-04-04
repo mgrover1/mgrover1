@@ -12,6 +12,5 @@
 - ⚡ Fun fact: I own over 40 Hawaiian shirts 🌴
 
 ---
-### Metrics
 
 ![Metrics](https://metrics.lecoq.io/mgrover1?template=classic&config.timezone=America%2FChicago)
