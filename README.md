@@ -13,4 +13,4 @@
 - 🤔 I’m looking for help with integrating the [Xarray](https://docs.xarray.dev/en/stable/) data model into [PyART](https://github.com/ARM-DOE/pyart)
 - 💬 Ask me about building data catalogs and working with Dask/Xarray
 - 📫 How to reach me: Tweet me at [@mgroverwx](https://twitter.com/mgroverwx)
-- ⚡ Fun fact: I own over 40 Hawaiian shirts 🌴
+- ⚡ Fun fact: I own over 60 Hawaiian shirts 🌴
